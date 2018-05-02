@@ -4,7 +4,7 @@ Remember The Milk ❤️ Alfred
 This Alfred-plugin requires the [command-line interface (CLI)](https://www.npmjs.com/package/rtm-cli) for [Remember The
 Milk](https://www.rememberthemilk.com/). 
 
-![](https://raw.githubusercontent.com/dwaring87/rtm-cli/master/screens/ls.png)
+![](Screen Shot 2018-05-02 at 10.13.50.png)
 
 
 ## Install the RTM CLI app
